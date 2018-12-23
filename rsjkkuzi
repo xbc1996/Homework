@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>RatuのjQuery</title>
+	<link rel="stylesheet" type="text/css" href="css/1.css"/>
+	</head>
+	<body>
+		<div id="hygl">
+			<p>Wellcome  to  my world.</p>
+             <span>Go</span>
+		</div>
+		<div id="home">
+			<div id="nav">
+				<div class="logo">R⭐ATU</div>
+				<ul>
+					<li>Home</li>
+					<li>Goods</li>
+					<li>Shopping</li>
+					<li>More</li>
+				</ul>
+				
+			</div>
+			<div id="bunner">
+				<input id="xz" type="search" placeholder="Wanted"/>
+				
+				<button>Serch</button>
+				<img src="img/8.png" />
+				
+			
+				
+			</div>
+			
+			<div id="goods">
+				<ul>
+					<li class="odd">
+						<img  src="../Prectice/img/1.jpg"/>
+						<span>
+                          This is MXXJ.  I think he is the best beautiful boy in the world.
+						</span>
+						<button class="see">See</button>
+						<button class="addA">Add</button>
+						
+					</li>
+					<li  class="ouu">
+						<img  src="../Prectice/img/2.jpg"/>
+						<span>
+							This is a handsome boy.From boy's highschool daily.
+
+						</span>
+						<button class="see">See</button>
+						<button class="addA">Add</button>
+						
+					</li>
+					<li class="odd">
+						<img  src="../Prectice/img/3.jpg"/>
+						<span>
+							This YinHun's person.
+
+						</span>
+						<button class="see">See</button>
+						<button class="addA">Add</button>
+						
+					</li>
+					<li class="ouu">
+						<img  src="../Prectice/img/4.jpg"/>
+						<span>
+                             This is my favorite girl,XSYZ.I love her very much.
+						</span>
+						<button class="see">See</button>
+						<button class="addA">Add</button>
+						
+					</li>
+					<li class="odd">
+						<img  src="../Prectice/img/5.jpg"/>
+						<span>
+                             This is KXBS.She is a smart girl.She maked DYMN robot.
+						</span>
+						<button class="see">See</button>
+						<button class="addA">Add</button>
+						
+					</li>
+					<li class="ouu">
+						<img  src="../Prectice/img/6.jpg"/>
+						<span>
+                             This is YL.YL is a wurrada girl.   R.I.P.
+						</span>
+						<button class="see">See</button>
+						<button class="addA">Add</button>
+						
+					</li>
+					<li class="odd">
+						<img  src="../Prectice/img/7.jpg"/>
+						<span>
+                             This is a beautiful girl that I'm not know her name.She is very sexy.
+						</span>
+						<button class="see">See</button>
+						<button class="addA">Add</button>
+						
+					</li>
+				</ul>
+			</div>
+			
+			<div id="car">
+				<p>Shopping Car</p>
+				<table>
+					<thead>
+						<tr>
+							<th>Check All  <input id="nb" type="checkbox"></th>
+							<th>img</th>
+							<th>name</th>
+							<th>One Price</th>
+							<th>count</th>
+							<th>All Price</th>
+							<th>Set</th>
+						</tr>
+					</thead>
+					<tbody>
+						
+					</tbody>
+				</table>
+				<div id="js">
+					<label>All Price：$<span class="allp">0</span></label>
+					<button id="buy">Buy</button>
+					<button id="delAll">Del all</button>
+				</div>
+		    
+		    
+		    </div >
+			
+			<div id="tab">
+				
+				<button id="say">I want to say something....</button>
+				<div id="tabb">
+					
+					
+				</div>
+				
+			</div>
+			
+			
+			<footer>
+				Tel：82-947-0987   Ratu's world.  Thankyou Very Much!!!!!    
+			</footer>
+		
+		</div>
+	</body>
+	<script src="../../jquery-3.3.1.js"></script>
+      <script type="text/javascript" src="javascript/1.js" ></script>
+</html>
